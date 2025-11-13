@@ -2,7 +2,7 @@
 This repository contains lecture notes, problem sets, and associated Google Colaboratory notebooks for the Caltech Bi/BE/CS 183 class taught by Professor [Lior Pachter](https://www.bbe.caltech.edu/people/lior-s-pachter) in the Winter Quarter 2022-2023. The TAs for the class were Tara Chari, Meichen Fang, and Jerry Wang. Along with tutoring students, the TAs helped prepare the materias and write the problem sets with solutions. An overview of the class is provided in the [syllabus](https://docs.google.com/document/d/1LV7rLCGQwl5F8pxuvCw_G8cntIuZRlpN7UFfKLJz2bc/edit?usp=sharing).
 
 ### Lectures slides
-- [Lecture 1](https://docs.google.com/presentation/d/1-Bo7yaaaxbf8ul_2gacZIII_pggd6JmSVXEF4Zwqekg/edit?usp=sharing): Introduction to computational biology of single-cell RNA-seq
+- [Lecture 1](https://docs.google.com/presentation/d/1kL9s6tVQngh_-h6sAWs_km7b9B4J3V0OW0fOB-M0zoU/edit?usp=sharing): Introduction to computational biology of single-cell RNA-seq
 - [Lecture 2](https://docs.google.com/presentation/d/1tpeNHSONBunT7TwZSlwm42VknPVNeufdY7A4rzqMhkI/edit?usp=drive_link): Single-cell RNA-seq technology
 - [Lecture 3](https://docs.google.com/presentation/d/1P2tFP82zIwZHOlRQWu8qlFUjCck3BDhtTPquZssciio/edit?usp=drive_link): Linear and logistic regression
 - [Lecture 4](https://docs.google.com/presentation/d/1ZJQQSgKdQA7PUw2HyZmgJwRN1IgRXA0e1XTmL9D3iF8/edit?usp=drive_link): Correlation and causation
