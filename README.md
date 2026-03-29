@@ -2,7 +2,7 @@
 This repository contains lecture notes, problem sets, and associated Google Colaboratory notebooks for the Caltech Bi/BE/CS 183 class taught by Professor [Lior Pachter](https://www.bbe.caltech.edu/people/lior-s-pachter) in the Spring Quarter 2025-2026. The TAs for the class are Maria Carilli, Conrad Oakes, and Duo Tao. Along with tutoring students, the TAs helped prepare the materias and write the problem sets with solutions. An overview of the class is provided in the [syllabus](https://docs.google.com/document/d/1yC06ksnvRmuCpZdMypN9KTdQGu770OZecsOUTiJr3E8/edit?tab=t.0).
 
 ### Lectures slides
-- [Lecture 1](https://docs.google.com/presentation/d/13NLT7PSmT9Dm_RePmpX1vTjIfPj8gXpvwLXv1obgbk4/edit?usp=sharing): Introduction to computational biology of single-cell RNA-seq
+- [Lecture 1](https://docs.google.com/presentation/d/1YW8H71AFdidJFiBpGLeDIBSp4j4eyr7ciPut8tlEgrk/edit?slide=id.gfc7f2016f0_0_0#slide=id.gfc7f2016f0_0_0): Introduction to computational biology of single-cell RNA-seq
 - [Lecture 2](): Single-cell RNA-seq technology
 - [Lecture 3](): Linear and logistic regression
 - [Lecture 4](): Correlation and causation
