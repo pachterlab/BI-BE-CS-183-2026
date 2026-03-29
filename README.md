@@ -1,23 +1,23 @@
 ## Caltech BI/BE/CSS 183: Introduction to Computational Biology and Bioinformatics
-This repository contains lecture notes, problem sets, and associated Google Colaboratory notebooks for the Caltech Bi/BE/CS 183 class taught by Professor [Lior Pachter](https://www.bbe.caltech.edu/people/lior-s-pachter) in the Spring Quarter 2025-2026. The TAs for the class are Maria Carilli and Joseph Rich. Along with tutoring students, the TAs helped prepare the materias and write the problem sets with solutions. An overview of the class is provided in the [syllabus](https://docs.google.com/document/d/1LV7rLCGQwl5F8pxuvCw_G8cntIuZRlpN7UFfKLJz2bc/edit?usp=sharing).
+This repository contains lecture notes, problem sets, and associated Google Colaboratory notebooks for the Caltech Bi/BE/CS 183 class taught by Professor [Lior Pachter](https://www.bbe.caltech.edu/people/lior-s-pachter) in the Spring Quarter 2025-2026. The TAs for the class are Maria Carilli, Conrad Oakes, and Duo Tao. Along with tutoring students, the TAs helped prepare the materias and write the problem sets with solutions. An overview of the class is provided in the [syllabus](https://docs.google.com/document/d/1yC06ksnvRmuCpZdMypN9KTdQGu770OZecsOUTiJr3E8/edit?tab=t.0).
 
 ### Lectures slides
-- [Lecture 1](https://docs.google.com/presentation/d/1kL9s6tVQngh_-h6sAWs_km7b9B4J3V0OW0fOB-M0zoU/edit?usp=sharing): Introduction to computational biology of single-cell RNA-seq
-- [Lecture 2](https://docs.google.com/presentation/d/1tpeNHSONBunT7TwZSlwm42VknPVNeufdY7A4rzqMhkI/edit?usp=drive_link): Single-cell RNA-seq technology
-- [Lecture 3](https://docs.google.com/presentation/d/1P2tFP82zIwZHOlRQWu8qlFUjCck3BDhtTPquZssciio/edit?usp=drive_link): Linear and logistic regression
-- [Lecture 4](https://docs.google.com/presentation/d/1ZJQQSgKdQA7PUw2HyZmgJwRN1IgRXA0e1XTmL9D3iF8/edit?usp=drive_link): Correlation and causation
-- [Lecture 5](https://docs.google.com/presentation/d/1A0g8BbgGmQllI5y1kdEYOPRQ0Q9CPMDMmX-RQwbhRzM/edit?usp=drive_link): Singular value decomposition
-- [Lecture 6](https://docs.google.com/presentation/d/1DTuLMODtcFy-x1X1J4p7hy8aIxr9VnGyY98XNKs1B78/edit?usp=drive_link): Dimensionality reduction
-- [Lecture 7](https://docs.google.com/presentation/d/1hH6WcVqrTsZRJmkTstJNjIka5g2eJcCnD_sBn4G-J6w/edit?usp=drive_link): Clustering
-- [Lecture 8](https://docs.google.com/presentation/d/1G4s2D-Y2Z5LFVe41enVBepyffSAjuAhrJZ7Hzn8A3nU/edit?usp=drive_link): Read alignment
-- [Lecture 9](https://docs.google.com/presentation/d/1XELEyVhr0vMpkaGXq4INhNq8mXttqz_NZ1ZGclUFM0Y/edit?usp=drive_link): String algorithms
-- [Lecture 10](https://docs.google.com/presentation/d/1XjHXsOVMdO0DgP8NvNCHC82DyudHrtf2YXOzRoPBN5g/edit?usp=drive_link): Modeling counts
-- [Lecture 11](https://docs.google.com/presentation/d/1Snj90kIe6iguVfftZ18404C4h8WcHoEdA8isfy021GQ/edit?usp=drive_link): Generalized linear models
-- [Lecture 12](https://docs.google.com/presentation/d/1qTSqWCfXNwKxpMT5VcgCrv_gmZ9xlXazukaWjWYoJ3o/edit?usp=drive_link): Variance stablization
-- [Lecture 13](https://docs.google.com/presentation/d/1ExkNVQ8u8IuZ1ZmUpTyd7oBuRkqU5RZEHm1q4eqK9Uc/edit?usp=drive_link): Differential analysis
-- [Lecture 14](https://docs.google.com/presentation/d/1F-OFNeVNClOYxTnJGW-pZ0KHzTIggPZeyZsk7y9gM0g/edit?usp=drive_link): Multiple testing
-- [Lecture 15](https://docs.google.com/presentation/d/1zpWVNvlbnqAjDlFr4XGaocOPw0Y-s6qm16kf01GS2aM/edit?usp=drive_link): Hidden Markov models
-- [Lecture 16](https://docs.google.com/presentation/d/1ry13HMq3z-DERtXNnm5L_YHXQFtIltmoGDTq3zydn6k/edit?usp=drive_link): Dynamic programming
-- [Lecture 17](https://docs.google.com/presentation/d/1Nf528xSOGWQS6sEkkAdA1MSt4p7u3aHnttA-tXGlzP0/edit?usp=drive_link): Mechanism
-- [Lecture 18](https://docs.google.com/presentation/d/15lw0UxeSoVwxrmn8L5BYu_xr7ccMB2u3QvGcn7M0sa8/edit?usp=drive_link): The Chemical Master Equation
-- [Lecture 19](https://docs.google.com/presentation/d/1OroKl_6AyrX422RGkodctorMA1dBhNBwbITg_kzxB3Q/edit?usp=drive_link): Neural networks
+- [Lecture 1](https://docs.google.com/presentation/d/13NLT7PSmT9Dm_RePmpX1vTjIfPj8gXpvwLXv1obgbk4/edit?usp=sharing): Introduction to computational biology of single-cell RNA-seq
+- [Lecture 2](): Single-cell RNA-seq technology
+- [Lecture 3](): Linear and logistic regression
+- [Lecture 4](): Correlation and causation
+- [Lecture 5](): Singular value decomposition
+- [Lecture 6](drive_link): Dimensionality reduction
+- [Lecture 7](): Clustering
+- [Lecture 8](): Read alignment
+- [Lecture 9](): String algorithms
+- [Lecture 10](): Modeling counts
+- [Lecture 11](): Generalized linear models
+- [Lecture 12](): Variance stablization
+- [Lecture 13](): Differential analysis
+- [Lecture 14](): Multiple testing
+- [Lecture 15](): Hidden Markov models
+- [Lecture 16](): Dynamic programming
+- [Lecture 17](): Mechanism
+- [Lecture 18](): The Chemical Master Equation
+- [Lecture 19](): Neural networks
