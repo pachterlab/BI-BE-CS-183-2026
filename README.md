@@ -4,16 +4,16 @@ This repository contains lecture notes, problem sets, and associated Google Cola
 ### Lectures slides
 - [Lecture 1](https://docs.google.com/presentation/d/1l4FV135tNs_KGlQHumERNYJBua6qtupypNudldIUFaA/edit?usp=sharing): Introduction to computational biology of single-cell RNA-seq
 - [Lecture 2](https://docs.google.com/presentation/d/16WuqeUNGFPwKMq2pLIuCCk9D4YC3647EutRWIX5DiWw/edit?usp=sharing): Single-cell RNA-seq technology
-- [Lecture 3](): Linear and logistic regression
-- [Lecture 4](): Correlation and causation
-- [Lecture 5](): Singular value decomposition
-- [Lecture 6](drive_link): Dimensionality reduction
-- [Lecture 7](): Clustering
-- [Lecture 8](): Read alignment
-- [Lecture 9](): String algorithms
-- [Lecture 10](): Modeling counts
-- [Lecture 11](): Generalized linear models
-- [Lecture 12](): Variance stablization
+- [Lecture 3](https://docs.google.com/presentation/d/14dr2sSoThnUYyy-VG4pS_0hqxDWP1XC4bongP3Deci4/edit?usp=sharing): Linear and logistic regression
+- [Lecture 4](https://docs.google.com/presentation/d/1KCGzm3-e9ygnhlY-UyDy_ehmKoDRTRfSAKN5Qu_JcSg/edit?usp=sharing): Correlation and causation
+- [Lecture 5](https://docs.google.com/presentation/d/1yfWq3hTvhGqa40fXXsm4xD4Pektm_MYGTPNilrD8pWo/edit?usp=sharing): Singular value decomposition
+- [Lecture 6](https://docs.google.com/presentation/d/1fUWCk6y9CXchg-TLmII0TMC6VxvgXJfWWSdRSRGHBjU/edit?usp=sharing): Dimensionality reduction
+- [Lecture 7](https://docs.google.com/presentation/d/1MqJd7xvTVmnQp_CzZfDKQfiGmUYkagwNZo7nF2fHKbc/edit?usp=sharing): Clustering
+- [Lecture 8](https://docs.google.com/presentation/d/12M369twSHX1ACwOPOp6E379lRbTjjaccb51MouliDLI/edit?usp=sharing): Read alignment
+- [Lecture 9](https://docs.google.com/presentation/d/1BA-Dz2fWsqQeoGw6zePvi5Izo_Dee_YgoVBFkUJPhsU/edit?usp=sharing): String algorithms
+- [Lecture 10](https://docs.google.com/presentation/d/1zqFsSFJef_iKcSO4ZF--f8VAXlzwijRiwFEB9E_BlAU/edit?usp=sharing): Modeling counts
+- [Lecture 11](https://docs.google.com/presentation/d/1NrYaglbjQnw7kWRINxfYV_qXhLklQ1ZkorZBDO9IPxg/edit?usp=sharing): Generalized linear models
+- [Lecture 12](https://docs.google.com/presentation/d/1lzeFpKQF-k_CudntAHFW7ZCObwms4PTh6dnJIKLNer0/edit?usp=sharing): Variance stablization
 - [Lecture 13](): Differential analysis
 - [Lecture 14](): Multiple testing
 - [Lecture 15](): Hidden Markov models
