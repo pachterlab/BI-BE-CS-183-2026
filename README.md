@@ -18,6 +18,4 @@ This repository contains lecture notes, problem sets, and associated Google Cola
 - [Lecture 14](https://docs.google.com/presentation/d/12vb2qBsVR4PlnAtgGD6c6pfw7J5z8gnsIZw5dJfXoak/edit?usp=sharing): Multiple testing
 - [Lecture 15](https://docs.google.com/presentation/d/1JlwJm9sS6iGdymT1XaqWVGNOO_r-qFaKP4oIMsaNM7U/edit?usp=sharing): Hidden Markov models
 - [Lecture 16](https://docs.google.com/presentation/d/1CIgrHnsGnRCqDpkVzwGEL9CnM0sznTUerJ7YKIwdDMs/edit?usp=sharing): Dynamic programming
-- [Lecture 17](): Mechanism
-- [Lecture 18](): The Chemical Master Equation
-- [Lecture 19](): Neural networks
+- [Lecture 17](https://docs.google.com/presentation/d/1OEZMKOiaVLt8OlSXQpOTfsv9flkH8pNcQuq9CsqxHtQ/edit?usp=sharing): Neural Networks
