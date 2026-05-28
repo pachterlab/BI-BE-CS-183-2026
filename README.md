@@ -19,3 +19,4 @@ This repository contains lecture notes, problem sets, and associated Google Cola
 - [Lecture 15](https://docs.google.com/presentation/d/1JlwJm9sS6iGdymT1XaqWVGNOO_r-qFaKP4oIMsaNM7U/edit?usp=sharing): Hidden Markov models
 - [Lecture 16](https://docs.google.com/presentation/d/1CIgrHnsGnRCqDpkVzwGEL9CnM0sznTUerJ7YKIwdDMs/edit?usp=sharing): Dynamic programming
 - [Lecture 17](https://docs.google.com/presentation/d/1OEZMKOiaVLt8OlSXQpOTfsv9flkH8pNcQuq9CsqxHtQ/edit?usp=sharing): Neural Networks
+- [Lecture 18](https://docs.google.com/presentation/d/1cL6PAsnN9DTaRUQdNY8hovzZ96m0F9Zk2spTpeax2fc/edit?usp=sharing): AlphaFold 
